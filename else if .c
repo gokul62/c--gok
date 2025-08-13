@@ -18,6 +18,10 @@ void main()
     printf("a is less than b");
     
 }
+        else if (a>b)
+        {
+            printf("a is greater than b");
+        }
 
 else 
 {

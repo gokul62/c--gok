@@ -17,6 +17,7 @@ int x=5;
 int y=6;
 
 printf("%d",add(x,y));
+   //printf("%d",add(4,5)
 getch();
 
 }
